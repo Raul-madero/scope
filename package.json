@@ -1,0 +1,16 @@
+{
+  "name": "scope",
+  "version": "1.0.0",
+  "description": "Curso de scope y closures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scope",
+    "curso",
+    "closures"
+  ],
+  "author": "Raul Madero <r.madero.ramirez@gmail.com>",
+  "license": "MIT"
+}
