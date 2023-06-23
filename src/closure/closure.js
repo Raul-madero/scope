@@ -22,3 +22,15 @@ function myFunction() {
 }
 
 myFunction()
+
+function greeting() {
+    let userName = 'Raul'
+    function displayUserName() {
+        return `Hello ${userName}`
+    }
+    return displayUserName
+}
+
+const g = greeting()
+console.log(g);
+console.log(g());
